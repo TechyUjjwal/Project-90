@@ -1,5 +1,5 @@
 body{
-    background-image: url("Images/bg.jpg");
+    background-image: url("bg.jpg");
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ body{
 }
 
 .body-2{
-    background-image: url("Images/bg2.jpg");
+    background-image: url("bg2.jpg");
 }
 
 #output{
